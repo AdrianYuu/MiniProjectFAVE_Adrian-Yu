@@ -110,6 +110,7 @@ body{
     background-color:#341893;
     padding: 10px 15px;
     margin-top: 0.1rem;
+    cursor: pointer;
 }
 
 #box #box-content #right form p{
